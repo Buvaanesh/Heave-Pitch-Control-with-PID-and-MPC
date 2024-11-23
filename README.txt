@@ -1,8 +1,8 @@
 Hello,
 
-This is a custom project that uses the active vehicle suspension system (AVSS) to minimise the pitch and heave of the vehicle under road disturbances.
+This is a project that uses the active vehicle suspension system (AVSS) to minimise pitch and heave of the vehicle under road disturbances.
 
-The AVSS plant model has 8 states, 4 inputs and 2 outputs which are heave and pitch ( same order in the output bus).
+The AVSS plant model has 8 states, 4 inputs and 2 outputs which are heave and pitch (same order in the output bus).
 
 The control systems are PID and MPC for the linearised plant. 
 
